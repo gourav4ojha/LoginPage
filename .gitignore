@@ -2,10 +2,9 @@
 
 # dependencies
 /Backend/node_modules
-/Frontend/node_modules
-/info.txt
-
+/node_modules
 /.pnp
+/info.txt
 .pnp.js
 
 # testing
