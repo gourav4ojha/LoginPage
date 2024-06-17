@@ -1,0 +1,10 @@
+project-root/
+├── .dockerignore
+├── Dockerfile
+├── frontend/
+│   ├── (frontend files)
+├── backend/
+│   ├── (backend files)
+├── node_modules/
+│   ├── (node modules)
+└── (other project files)
